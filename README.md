@@ -102,7 +102,7 @@ Deep low voice to express something which is anything but good.
 
 ##Having the Jack Duckworths
 
-Incongrous expression related to having spiritual experiences through citing the most normal of people you could imagine in the form of a Coronation St. character of many years.
+Incongruous expression related to having spiritual experiences through citing the most normal of people you could imagine in the form of a Coronation St. character of many years.
 
 ##Health's brother
 
@@ -126,7 +126,7 @@ Reference to the seemingly intangible and unintelligible nature of the Universe 
 
 ##Long term diffs; Everdiffs
 
-Actions which make little impact on proceedings. Often with reference to the Bardo realms: "Long term diffs in the bardos seen." Sensation that any given actions will not be having negative karmic influence in the grand scheme of the unfolding of the universe.
+Actions which make little impact on proceedings. Often with reference to the Bardo realms: "Long term diffs in the Bardos seen." Sensation that any given actions will not be having negative karmic influence in the grand scheme of the unfolding of the universe.
 
 ##Lot, A
 
@@ -174,7 +174,7 @@ _At least we can remember than M people die in their sleep_
 
 ##Necess
 
-Something not required
+Something not required.
 
 ##No connections
 
@@ -192,7 +192,7 @@ _He was acting a bit norms when I last saw him_
 
 ##Not much and none
 
-Explaining that something is sufficient in supply i.e. money.
+Explaining that something is sufficient in supply e.g. money.
 
 ##Nothing doing nothing
 
@@ -274,7 +274,7 @@ Being intoxicated and talking nonsense.
 
 Representing something of large size. Common usage in relational to penis size and muscular build.
 
-###Juergen Smalls
+####Juergen Smalls
 
 Athletic mainland European man with large appendage who woos your lady friend (often with South Seas free-pearl-diving experience just to rub it in).
 
