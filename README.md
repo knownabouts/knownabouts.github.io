@@ -282,6 +282,10 @@ Athletic mainland European man with large appendage who woos your lady friend (o
 
 When someone had done you wrong or had met an unfortunate ending.
 
+##Stopping and solved
+
+Expression which describes persistent and complex undesirable traits.
+
 ##Styles
 
 Tricking or deceiving someone.
