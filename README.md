@@ -106,7 +106,7 @@ Incongruous expression related to having spiritual experiences through citing th
 
 ##Health's brother
 
-Feeling ill, expressing that someone is unwell. Originated at infamous Brighton party when man was intoxicated and not having a good time. Can be sung to the hip hop song "South Bronx" replacing the words "South Bronx ,the South South Bronx" by Boogie Down Productions.
+Feeling ill, expressing that someone is unwell. Originated at infamous Brighton party when man was intoxicated and not having a good time. Can be sung to the hip hop song "South Bronx" replacing the words "South Bronx, the South South Bronx" by Boogie Down Productions.
 
 ##Help and Assistance
 
