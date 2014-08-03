@@ -44,7 +44,7 @@ Unintelligent or unlearned mental or physical actions.
 
 ##Clumps
 
-Someone involved in a violent confrontation.
+A violent confrontation.
 
 ##Cockery
 
@@ -60,7 +60,7 @@ Something difficult to understand.
 
 ##Continue
 
-High voice. To recommend someone stops any given activity.
+**High voice**. To recommend someone stops any given activity.
 
 ##Derub; Derubus
 
@@ -72,7 +72,7 @@ Bad vibes or having disagreements. (Derived from the auras).
 
 ##Dry
 
-High pitched ullulated voice. Sarcasm related to being wet.
+**High pitched ullulated voice**. Sarcasm related to being wet.
 
 ##Ever____
 
@@ -98,7 +98,7 @@ Getting intoxicated.
 
 ##Goooooooooooooooooooood
 
-Deep low voice to express something which is anything but good.
+**Deep low voice**. Something which is anything but good.
 
 ##Having the Jack Duckworths
 
@@ -130,7 +130,7 @@ Actions which make little impact on proceedings. Often with reference to the Bar
 
 ##Lot, A
 
-High pitched voice, expressing that something was inadequate.
+**High pitched voice**. Expressing that something was inadequate.
 
 ##M-People; Most people do those things; M-People do those things
 
@@ -296,7 +296,7 @@ _He was trying to do styles_
 
 ##Thaaaannnks
 
-Deep raspy voice. Sarcastic expression of non approval of a situation.
+**Deep raspy voice**. Sarcastic expression of non-approval of a situation.
 
 ##Under pant tea
 
@@ -308,7 +308,7 @@ Expression that something is grossly inconvenient or impractical.
 
 ##Warm
 
-High pitched ullulated voice. Sarcasm saying it's actually cold.
+**High pitched ullulated voice**. Sarcasm saying it's actually cold.
 
 ##Weaks; Weakers
 
@@ -316,7 +316,7 @@ Expression of strength or potency.
 
 ##Worth; Worthers Originals
 
-Said in high pitched voice when an activity was not approved of.
+**High pitched voice**. When an activity was not approved of.
 
 ##Worsers
 
