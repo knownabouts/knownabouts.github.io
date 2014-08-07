@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+- 2.1.2
+deploy:
+  provider: heroku
+  app: knownabouts
+  api_key:
+    secure: vdHLQZZ3EYQBCP5eSmkL14deDUAi83puekSLkdkTPUwfKWZUZcr7JLN/rctF/w3MaBVR30WCpdhqFHIJw6k3tG8KKat6+0TBGnqNOr16L3k0sziXyGu86Gh9s3eyjuF1+aLPWDiD+3uhGlKVthaxP8pbJ4Egn7ItyBkiR9Qq6aU=
