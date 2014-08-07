@@ -62,7 +62,7 @@ Something difficult to understand.
 
 **High voice**. To recommend someone stops any given activity.
 
-##Derub; Derubus
+##Dureebe; Dureebes
 
 To exclaim that something is worthless.
 
