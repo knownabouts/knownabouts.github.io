@@ -1,0 +1,56 @@
+---
+layout: default
+---
+    <article>
+      {% if page.aka %}
+      <h2>Sometimes</h2>
+      <ul class='aka'>
+        {% for aka in page.aka %}
+          <li>{{ aka }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      <p>{{ page.meaning }}</p>
+      {% if page.usage %}
+      <p class='usage'>{{ page.usage }}</p>
+      {% endif %}
+    </article>
+    <div class='row'>
+      <div class='col-md-4'>
+    {% assign match = false %}
+    {% for other_page in site.pages reversed %}
+      {% if other_page.url contains '/definitions/' %}
+        {% if match == true %}
+          {% if page.url > other_page.url %}
+            Previous: <a href='{{ other_page.url }}'>{{ other_page.title }}</a>
+          {% endif %}
+          {% break %}
+        {% endif %}
+        {% if page.url == other_page.url %}
+          {% assign match = true %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class='col-md-4'>
+    <a href='/'>Home</a>
+  </div>
+  <div class='col-md-4'>
+    {% assign match = false %}
+    {% for other_page in site.pages %}
+      {% if other_page.url contains '/definitions/' %}
+        {% if match == true %}
+          {% if page.url < other_page.url %}
+            Next: <a href='{{ other_page.url }}'>{{ other_page.title }}</a>
+          {% else %}
+            WAT
+          {% endif %}
+          {% break %}
+        {% endif %}
+        {% if page.url == other_page.url %}
+          {% assign match = true %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+</div>
+</div>

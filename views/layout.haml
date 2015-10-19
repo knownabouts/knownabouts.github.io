@@ -1,0 +1,26 @@
+!!! 5
+%html(lang="en")
+  %head
+    %title= title
+    %meta{"http-equiv" => "Content-Type", :content => "text/html; charset=utf-8"}
+    %link{:rel => 'stylesheet', :href => '//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css', :type => "text/css"}
+    %link{:rel => 'shortcut icon', :href => 'favicon.ico'}
+
+    -if defined? bootstrap_theme
+      %link{:rel => 'stylesheet', :href => bootstrap_theme, :type => "text/css"}
+
+    -if defined? additional_styles
+      -additional_styles.each do |style|
+        %link{:rel => 'stylesheet', :href => style, :type => "text/css"}
+
+
+  %body
+    .body
+    -if defined? github[:ribbon]
+      %a{:href => "https://github.com/%s/%s" % [ github[:user], github[:project] ] }
+        %img{:style => "position: absolute; top: 0; right: 0; border: 0;",
+         :src => "https://s3.amazonaws.com/github/ribbons/forkme_%s.png" % [ github[:ribbon] ],
+         :alt => "Fork me on GitHub"}
+
+    .container
+      = yield
