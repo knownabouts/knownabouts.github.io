@@ -1,0 +1,16 @@
+---
+layout: default
+title: Knownabouts
+---
+
+<p>Language developed largely based on sarcasm and used by a group of teenage friends growing up in Leytonstone, London, UK aroung 1990. Some expansion into workplaces and universities. To anyone reading it will likely come across as a private joke. I do not believe this to be a unique phenomena and consider most social groups to have at least have a few words that are privately known to describe common experiences</p>
+
+<ul>
+{% for other_page in site.pages %}
+  {% if other_page.url contains '/definitions/' %}
+  <li>
+    <a href='{{ other_page.url }}'>{{ other_page.title}}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
