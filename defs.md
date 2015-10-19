@@ -1,9 +1,3 @@
-#Knownabouts
-
-Language developed largely based on sarcasm and used by a group of teenage friends growing up in Leytonstone, London, UK aroung 1990. Some expansion into workplaces and universities. To anyone reading it will likely come across as a private joke. I do not believe this to be a unique phenomena and consider most social groups to have at least have a few words that are privately known to describe common experiences.
-
-See also the [Tumblr](http://knownabouts.tumblr.com/).
-
 ##Around
 
 When someone is not about anymore.
@@ -74,7 +68,7 @@ Bad vibes or having disagreements. (Derived from the auras).
 
 **High pitched ullulated voice**. Sarcasm related to being wet.
 
-##Ever____
+##Ever
 
 Adding the first syllable of virtually any word after "Ever" to imply the negative of that word.
 
